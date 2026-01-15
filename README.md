@@ -1,4 +1,3 @@
-# TW-earthquake
 # Earthquake Data Analysis (Python)
 
 ## 專案介紹
